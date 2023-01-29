@@ -5,7 +5,7 @@
 after cloning this project you should call following commands (you will need Node.js and npm installed on your machine)
 
 - `npm install`
-- ```npm run dev````
+- `npm run dev`
 
 npm will start your application on your local machine on port 3000 (http://localhost:3000/)
 
